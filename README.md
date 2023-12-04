@@ -198,7 +198,7 @@ Our approach for client libraries is modular. Each sub-library is a standalone i
   </tr>
   <!-- /notranslate -->
 </table>
-github: [myHerbDev, myHerbAI]
+
 <!--- Remove this list if you're translating to another language, it's hard to keep updated across multiple files-->
 <!--- Keep only the link to the list of translation files-->
 
@@ -226,7 +226,6 @@ github: [myHerbDev, myHerbAI]
 ```md
 [![Made with Supabase](https://supabase.com/badge-made-with-supabase-dark.svg)](https://supabase.com)
 ```
-
 ```html
 <a href="https://supabase.com">
   <img

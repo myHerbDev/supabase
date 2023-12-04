@@ -198,7 +198,7 @@ Our approach for client libraries is modular. Each sub-library is a standalone i
   </tr>
   <!-- /notranslate -->
 </table>
-
+github: [myHerbDev, myHerbAI]
 <!--- Remove this list if you're translating to another language, it's hard to keep updated across multiple files-->
 <!--- Keep only the link to the list of translation files-->
 
